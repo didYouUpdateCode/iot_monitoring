@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Others
+chronograf/data/
+influxdb/data/
+influxdb/meta/
+influxdb/wal/
