@@ -133,3 +133,5 @@ chronograf/data/
 influxdb/data/
 influxdb/meta/
 influxdb/wal/
+postgres/data/
+log.txt

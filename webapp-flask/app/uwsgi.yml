@@ -1,0 +1,8 @@
+uwsgi:
+  master: true
+  http: :80
+  module: run
+  callable: app
+  processes: 4
+  threads: 2
+  logto: /app/log.txt
